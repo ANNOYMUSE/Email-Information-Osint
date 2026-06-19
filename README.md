@@ -20,4 +20,8 @@ git clone https://github.com/ANNOYMUSE/Email-Information-Osint.git
 
 ls
 
+cd Email-Information-Osint
+
+ls
+
 Run:- python rx.py
