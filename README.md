@@ -11,11 +11,13 @@
 open terminal kali linux or Termux
 just copy paste 💌
 
-
+apt update & apt upgrade
+pkg update & pkg update
+pkg install python
 
 git clone https://github.com/ANNOYMUSE/Email-Information-Osint.git
 
 
 ls
 
-Run python rx.py
+Run:- python rx.py
